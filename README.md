@@ -4,6 +4,7 @@ I’m a passionate developer with experience in:
 🐍 Python – scripting, automation, and data handling
 💎 C# & .NET – desktop and web application development
 🌐 HTML & CSS – creating clean and responsive web interfaces
+🌏 English - have an advanced englis level
 I enjoy solving problems, learning new technologies, and improving my coding skills every day.
 Always excited to collaborate on interesting projects and explore new ideas! 🚀✨
 
