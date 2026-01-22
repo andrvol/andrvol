@@ -1,9 +1,14 @@
 ## Hi, I'm Andrii 👋
 I’m a passionate developer with experience in:
+
 🖥️ C++ – building algorithms and efficient programs
+
 🐍 Python – scripting, automation, and data handling
+
 💎 C# & .NET – desktop and web application development
+
 🌐 HTML & CSS – creating clean and responsive web interfaces
+
 🌏 English - Advanced (C1)
 
 I enjoy solving problems, learning new technologies, and improving my coding skills every day.
