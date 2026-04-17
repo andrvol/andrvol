@@ -7,6 +7,8 @@ I’m a passionate developer with experience in:
 
 🌐 HTML & CSS – creating clean and responsive web interfaces
 
+♟️ RAPID(10+0) - 1154 points
+
 🌏 English - Advanced (C1)
 
 Coding is like chess, your next move depends on your previous choices, so I prefer to think about the application's architecture and only then begin coding!
