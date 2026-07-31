@@ -9,7 +9,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 ### 🛠 Tech Stack & Tools
 
 **Languages & Frameworks:**
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,cs,cpp,js,ts,html,css,react,nodejs" alt="Languages & Frameworks" /> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0" width="48" height="48" alt="Playwright" title="Playwright" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=cs,py,cpp,js,ts,html,css,react,nodejs" alt="Languages & Frameworks" /> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0" width="48" height="48" alt="Playwright" title="Playwright" /> </p>
 
 **Environment & Tools:**
 <p align="left">
