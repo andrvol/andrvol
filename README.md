@@ -21,7 +21,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=andrvol&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="520" />
+  <img src="https://github-stats-extended.vercel.app/api?username=andrvol&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="520" />
   <br /><br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrvol&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" width="520" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrvol&theme=transparent&hide_border=true&card_width=495" alt="Top Languages" width="520" />
 </p>
