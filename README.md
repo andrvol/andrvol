@@ -19,7 +19,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 **Databases:**
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" />
-  <img src="https://p7.hiclipart.com/preview/278/609/309/microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance.jpg" width="48" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="48" height="48" title="MSSQL"/>
 </p>
 
 ---
