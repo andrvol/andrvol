@@ -13,7 +13,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 
 **Environment & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,docker,git, postman" alt="Environment & Tools" />
+  <img src="https://skillicons.dev/icons?i=apple,docker,git,postman" alt="Environment & Tools" />
 </p>
 
 **Databases:**
