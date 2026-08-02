@@ -25,9 +25,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 
 **IDEs:**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="48" height="48" title="MSSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=rider,vscode,pycharm" alt="IDEs" />
 </p>
 
 ---
