@@ -13,10 +13,17 @@ I am passionate about web-development and automatization. Coding is my job and a
 
 **Environment & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,docker,git" alt="Environment & Tools" />
+  <img src="https://skillicons.dev/icons?i=apple,docker,git, postman" alt="Environment & Tools" />
 </p>
 
 **Databases:**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="48" height="48" title="MSSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" title="MongoDB"/>
+</p>
+
+**IDEs:**
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="48" height="48" title="MSSQL"/>
