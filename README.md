@@ -17,7 +17,9 @@ I am passionate about web-development and automatization. Coding is my job and a
 </p>
 
 **Databases:**
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0" width="48" height="48" alt="Playwright" title="Playwright" /> </p>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" /> 
+</p>
 ---
 
 ### 📊 GitHub Stats
