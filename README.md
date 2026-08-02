@@ -13,7 +13,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 
 **Environment & Tools:**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48 alt="PostgreSql" />
+  <img src="https://skillicons.dev/icons?i=apple,docker,git" alt="Environment & Tools" />
 </p>
 
 **Databases:**
