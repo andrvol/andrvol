@@ -20,6 +20,7 @@ I am passionate about web-development and automatization. Coding is my job and a
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" /> 
 </p>
+
 ---
 
 ### 📊 GitHub Stats
