@@ -21,7 +21,7 @@ I am passionate about web-development and automatization. Coding is my job and a
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" width="48" height="48" alt="PostgreSQL"     title="PostgreSQL" />
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" alt="MSSQL" width="48" height="48" title="MSSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg" alt="Redis" width="48" height="48" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" alt="Redis" width="48" height="48" title="Redis"/>
 </p>
 
 **IDEs:**
